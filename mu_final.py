@@ -6,6 +6,8 @@ Created on Wed Apr 11 11:02:45 2018
 @author: Julia
 """
 
+#Comment to show change in code 
+
 import numpy as np
 from matplotlib import pyplot as plt
 
