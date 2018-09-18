@@ -7,6 +7,7 @@ Created on Wed Apr 11 11:02:45 2018
 """
 
 #Comment to show change in code 
+#Now changed code in editor on local machine
 
 import numpy as np
 from matplotlib import pyplot as plt
